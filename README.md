@@ -1,2 +1,2 @@
 # life-style-store-website
-This is website is basically a prototype for a E-commerce website selling cameras , watches and shirts.
+This is internet site is essentially a prototype for a E-trade internet site selling cameras , watches and shirts.
